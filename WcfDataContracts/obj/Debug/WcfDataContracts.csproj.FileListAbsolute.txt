@@ -1,0 +1,6 @@
+D:\Programowanie\PWr\RSI\wcf\WcfDataContracts\WcfDataContracts\bin\Debug\WcfDataContracts.dll.config
+D:\Programowanie\PWr\RSI\wcf\WcfDataContracts\WcfDataContracts\bin\Debug\WcfDataContracts.dll
+D:\Programowanie\PWr\RSI\wcf\WcfDataContracts\WcfDataContracts\bin\Debug\WcfDataContracts.pdb
+D:\Programowanie\PWr\RSI\wcf\WcfDataContracts\WcfDataContracts\obj\Debug\WcfDataContracts.csproj.CoreCompileInputs.cache
+D:\Programowanie\PWr\RSI\wcf\WcfDataContracts\WcfDataContracts\obj\Debug\WcfDataContracts.dll
+D:\Programowanie\PWr\RSI\wcf\WcfDataContracts\WcfDataContracts\obj\Debug\WcfDataContracts.pdb

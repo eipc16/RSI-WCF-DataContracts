@@ -1,0 +1,11 @@
+D:\Programowanie\PWr\RSI\wcf\WcfDataContracts\WcfHost\bin\Debug\WcfHost.exe.config
+D:\Programowanie\PWr\RSI\wcf\WcfDataContracts\WcfHost\bin\Debug\WcfHost.exe
+D:\Programowanie\PWr\RSI\wcf\WcfDataContracts\WcfHost\bin\Debug\WcfHost.pdb
+D:\Programowanie\PWr\RSI\wcf\WcfDataContracts\WcfHost\bin\Debug\WcfDataContracts.dll
+D:\Programowanie\PWr\RSI\wcf\WcfDataContracts\WcfHost\bin\Debug\WcfDataContracts.pdb
+D:\Programowanie\PWr\RSI\wcf\WcfDataContracts\WcfHost\bin\Debug\WcfDataContracts.dll.config
+D:\Programowanie\PWr\RSI\wcf\WcfDataContracts\WcfHost\obj\Debug\WcfHost.csprojAssemblyReference.cache
+D:\Programowanie\PWr\RSI\wcf\WcfDataContracts\WcfHost\obj\Debug\WcfHost.csproj.CoreCompileInputs.cache
+D:\Programowanie\PWr\RSI\wcf\WcfDataContracts\WcfHost\obj\Debug\WcfHost.csproj.CopyComplete
+D:\Programowanie\PWr\RSI\wcf\WcfDataContracts\WcfHost\obj\Debug\WcfHost.exe
+D:\Programowanie\PWr\RSI\wcf\WcfDataContracts\WcfHost\obj\Debug\WcfHost.pdb
